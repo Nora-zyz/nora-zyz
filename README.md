@@ -1,16 +1,17 @@
-## Hi there 👋
+# 你好，我是 Nora
 
-<!--
-**Nora-zyz/nora-zyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名 UX/UI 设计师，关注信息层级、交互体验与视觉表达，也在学习如何用 AI 把设计想法做成可以使用的作品。
 
-Here are some ideas to get you started:
+我希望把每次项目中的判断和经验，逐步整理成可复用的方法、模板与小工具，让下一次创作能够从已有积累出发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我正在探索
+
+- **AI 辅助设计**：把任务背景、设计范围和判断标准讲清楚，改善与 AI 的协作。
+- **设计经验沉淀**：记录信息组织、页面布局和交互取舍，以及它们适用的条件。
+- **从设计到作品**：尝试把方案变成可体验的原型，逐步建立自己的作品集。
+
+## 这里会分享
+
+设计工作流程、可复用模板、原创练习，以及制作过程中的思考和复盘。
+
+目前正在整理第一份「活动页信息层级与布局」工作包。我会随着实际使用和学习持续更新。
